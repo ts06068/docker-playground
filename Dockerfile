@@ -13,4 +13,4 @@ CMD [ "python3", "/home/workspace/app.py"]
 # docker build -t flask-server:1.0.0 .
 
 # Create Container
-# docker run -dp 0.0.0.0:5000:5000 flask-server:1.0.0
+# docker run -dp 0.0.0.0:8800:5000 flask-server:1.0.0
